@@ -5,7 +5,7 @@
 	"author": "imeepos <1037483576@qq.com>",
 	"homepage": "https://github.com/meepobrother/nger-weapp#readme",
 	"license": "ISC",
-	"main": "lib/core.js",
+	"main": "lib",
 	"directories": {
 		"lib": "lib",
 		"test": "__tests__"
