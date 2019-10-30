@@ -1,1 +1,1 @@
-export class CoreModule { }
+export * from './analysis';
